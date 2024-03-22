@@ -5,4 +5,4 @@ function main(key)
     end
 end
 
-main()
+return main
